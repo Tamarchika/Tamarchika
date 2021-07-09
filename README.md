@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tamarchika
 - 👀 I’m interested in FrontEnd Development;
-- 🌱 I’m currently learning Javascript;
+- 🌱 I’m currently learning React;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ratiani.tamuna@gmail.com
 
