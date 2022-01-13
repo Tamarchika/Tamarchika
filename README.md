@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamarchika
+- 👋 Hi, I’m @Tamara;
 - 👀 I’m interested in FrontEnd Development;
 - 🌱 I’m currently learning React;
 - 💞️ I’m looking to collaborate on ...
